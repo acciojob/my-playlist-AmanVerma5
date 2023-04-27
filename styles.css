@@ -18,5 +18,7 @@ h1{
 	max-width:400px;
 	background-color:white;
 	left:35%;
-	
+}
+li{
+	list-style-type:none;
 }
